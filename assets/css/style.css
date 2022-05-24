@@ -203,14 +203,15 @@
 .description_item img{
     width: 250px;
     height: 200px;
-   
+    display: block;
 }
 .description_text{
     background-color: #fff;
     color: #000;
+    
 }
 .text_1,.text_2, .text_3{
-    padding: 10px;
+    padding: 20px;
 }
 .text_1 h2,.text_2 h2, .text_3 h2{
     margin-bottom: 10px;
